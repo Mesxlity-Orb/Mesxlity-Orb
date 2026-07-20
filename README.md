@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 🏆 **Proud participant in the KANZ World Record!**
-- 🔭 I’m currently engineering **Red Queen**, a full-stack interactive Agentic AI application driven by multimodal APIs.
+- 🔭 I’m currently engineering **[Red Queen (Live Demo)](https://red-queen-project.vercel.app/)**, a full-stack interactive Agentic AI application driven by multimodal APIs.
 - 🌱 I’m mastering the deployment of autonomous workflows for enterprise cybersecurity and live threat monitoring.
 - 🎓 I combine a business degree with hands-on technical networking and hardware experience.
 - 🎸 Beyond the screen, I am deeply passionate about creating original music, blending elements of rock, blues, folk, and country into digital releases across streaming platforms.
@@ -26,7 +26,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mesxlity-Orb&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <!-- The URL below has been updated to your Vercel link -->
+  <img src="https://red-queen-project.vercel.app/api?username=Mesxlity-Orb&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 ---
