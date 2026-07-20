@@ -12,6 +12,7 @@
 - 🔭 I’m currently engineering **Red Queen**, a full-stack interactive Agentic AI application driven by multimodal APIs.
 - 🌱 I’m mastering the deployment of autonomous workflows for enterprise cybersecurity and live threat monitoring.
 - 🎓 I combine a business degree with hands-on technical networking and hardware experience.
+- 🎸 Beyond the screen, I am deeply passionate about creating original music, blending elements of rock, blues, folk, and country into digital releases across streaming platforms.
 
 ### 🛠️ Languages & Tools
 <p align="left">
