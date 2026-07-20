@@ -26,8 +26,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <!-- The URL below has been updated to your Vercel link -->
-  <img src="https://red-queen-project.vercel.app/api?username=Mesxlity-Orb&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <!-- Restored to the official public server -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mesxlity-Orb&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 ---
